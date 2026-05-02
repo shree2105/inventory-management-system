@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="efcc8363-ead3-406a-83b0-4ae0ed775ae2" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="34m1giS3cFlLzxoWxksk7NQK32c" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.InsertDummyData.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.dbconfig.executor&quot;: &quot;Run&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JUnit.GlobalExceptionHandlerTest.handleGeneralException_returnsInternalServerError_and_message.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StaffControllerTest.getAll_empty_returnsEmptyOrOk.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ValidationUtilTest.whenAllFieldsValid_thenNoViolations.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.login.html.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;Smart Tomcat.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.InventoryApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/rjshr/IdeaProjects/inventory_management (2)/inventory_management&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/rjshr/IdeaProjects/inventory_management/src/main/java/org/inventory/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.grazie&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rjshr\IdeaProjects\inventory_management\src\main\resources\static\staff" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rjshr\IdeaProjects\inventory_management\src\main\resources\static\admin" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.inventory.controller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.InsertDummyData">
+    <configuration name="InsertDummyData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.inventory.config.InsertDummyData" />
+      <module name="inventory_management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.inventory.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dbconfig" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.inventory.config.dbconfig" />
+      <module name="inventory_management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.inventory.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StaffControllerTest.getAll_empty_returnsEmptyOrOk" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="inventory_management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.inventory.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.inventory.controller" />
+      <option name="MAIN_CLASS_NAME" value="org.inventory.controller.StaffControllerTest" />
+      <option name="METHOD_NAME" value="getAll_empty_returnsEmptyOrOk" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidationUtilTest.whenAllFieldsValid_thenNoViolations" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="inventory_management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.inventory.validation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.inventory.validation" />
+      <option name="MAIN_CLASS_NAME" value="org.inventory.validation.ValidationUtilTest" />
+      <option name="METHOD_NAME" value="whenAllFieldsValid_thenNoViolations" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="login.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/inventory_management/static/login.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="InventoryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="inventory_management" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.inventory.InventoryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="com.poratu.idea.plugins.tomcat" nameIsGenerated="true">
+      <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
+      <predefined_log_file enabled="true" id="Tomcat Access Log" />
+      <predefined_log_file id="Tomcat Catalina Log" />
+      <predefined_log_file id="Tomcat Manager Log" />
+      <predefined_log_file id="Tomcat Host Manager Log" />
+      <option name="catalinaBase" value="" />
+      <option name="contextPath" value="/" />
+      <option name="docBase" value="C:\Users\rjshr\IdeaProjects\inventory_management" />
+      <option name="extraClassPath" value="" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat/11.0.13" />
+          <option name="path" value="$PROJECT_DIR$/../../../../apache-tomcat-11.0.13" />
+          <option name="version" value="11.0.13.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.InsertDummyData" />
+      <item itemvalue="Application.dbconfig" />
+      <item itemvalue="JUnit.StaffControllerTest.getAll_empty_returnsEmptyOrOk" />
+      <item itemvalue="JUnit.ValidationUtilTest.whenAllFieldsValid_thenNoViolations" />
+      <item itemvalue="Smart Tomcat.Unnamed" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.InsertDummyData" />
+        <item itemvalue="Application.dbconfig" />
+        <item itemvalue="JUnit.StaffControllerTest.getAll_empty_returnsEmptyOrOk" />
+        <item itemvalue="JUnit.ValidationUtilTest.whenAllFieldsValid_thenNoViolations" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26830.84" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efcc8363-ead3-406a-83b0-4ae0ed775ae2" name="Changes" comment="" />
+      <created>1761804051152</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761804051152</updated>
+      <workItem from="1761804052548" duration="3181000" />
+      <workItem from="1761808662209" duration="23173000" />
+      <workItem from="1761837481233" duration="22000" />
+      <workItem from="1761904532076" duration="3314000" />
+      <workItem from="1761915414389" duration="4446000" />
+      <workItem from="1762077767002" duration="6893000" />
+      <workItem from="1762095850979" duration="2739000" />
+      <workItem from="1762110051923" duration="695000" />
+      <workItem from="1762153417820" duration="9271000" />
+      <workItem from="1762191317526" duration="3697000" />
+      <workItem from="1762260385052" duration="7347000" />
+      <workItem from="1762316388143" duration="11076000" />
+      <workItem from="1762350282764" duration="2471000" />
+      <workItem from="1762363404981" duration="673000" />
+      <workItem from="1762367302421" duration="1547000" />
+      <workItem from="1762420280109" duration="7680000" />
+      <workItem from="1762437867189" duration="1500000" />
+      <workItem from="1762499257207" duration="7327000" />
+      <workItem from="1762521493393" duration="2278000" />
+      <workItem from="1762685042476" duration="6783000" />
+      <workItem from="1762780507276" duration="1706000" />
+      <workItem from="1762783847256" duration="1105000" />
+      <workItem from="1763042480916" duration="773000" />
+      <workItem from="1763121629778" duration="799000" />
+      <workItem from="1763123749583" duration="3299000" />
+      <workItem from="1763190955572" duration="502000" />
+      <workItem from="1763200712574" duration="781000" />
+      <workItem from="1763283252067" duration="1151000" />
+      <workItem from="1763290190626" duration="4250000" />
+      <workItem from="1763359724953" duration="37000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-core" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.validation:jakarta.validation-api" />
+    <option featureType="com.intellij.configurationType" implementationName="JavascriptDebugType" />
+    <option featureType="dependencySupport" implementationName="java:org.hibernate.validator:hibernate-validator" />
+    <option featureType="com.intellij.configurationType" implementationName="SpringBootApplicationConfigurationType" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-webmvc" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/inventory/model/Staff.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
